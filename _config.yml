@@ -15,7 +15,7 @@ search:
   
 nav_enabled: true
 heading_anchors: true
-
+last_edit_timestamp: true
 
 color_scheme: dark
   
