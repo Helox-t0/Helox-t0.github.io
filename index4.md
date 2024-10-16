@@ -1,7 +1,7 @@
 ---
-title: Pagina 2
+title: Pagina 2-1
 layout: home
 Nav_order: 4
-parent: Index2.md
+parent: pagina 2
 ---
 Página Hija de Pagina 2
