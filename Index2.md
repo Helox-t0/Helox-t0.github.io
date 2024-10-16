@@ -1,5 +1,5 @@
 ---
-title: SubPage1
+title: Home2
 layout: home
 ---
 
