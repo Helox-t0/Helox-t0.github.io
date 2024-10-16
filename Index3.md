@@ -1,5 +1,5 @@
 ---
-title: Home 3
+title: Pagina 2
 layout: home
 Nav_order: 3
 ---
