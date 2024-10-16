@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Indice
 layout: home
 Nav_order: 1
 ---
