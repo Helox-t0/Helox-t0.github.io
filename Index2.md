@@ -1,7 +1,7 @@
 ---
 title: Pagina 2
 layout: home
-Nav_order: 3
+nav_order: 3
 Parent: Ancestry
 has_children: true
 ---
