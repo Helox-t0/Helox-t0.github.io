@@ -16,7 +16,6 @@ search:
   nav_external_links:
   - title: Link a Just the Docs
     url: https://just-the-docs.com/
-    hide_icon: false
     opens_in_new_tab: true
     
 nav_external_links_new_tab: true
