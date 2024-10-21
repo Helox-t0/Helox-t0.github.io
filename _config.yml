@@ -15,7 +15,7 @@ search:
   
 nav_external_links:
   - title: Link a Just the Docs
-    url: https://just-the-docs.com/
+    url: https://github.com/just-the-docs/just-the-docs
     opens_in_new_tab: true
     
 nav_external_links_new_tab: true
